@@ -1,1 +1,1 @@
-A blog app built with Django & Django Rest Framework for backend 
+A blog app built with Django & Django Rest Framework for Backend
